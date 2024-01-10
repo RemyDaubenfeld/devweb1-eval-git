@@ -24,3 +24,5 @@ git push -u origin master
 Modification du document readme.txt puis "ctrl + S"
 
 git commit -a -m "Second commit"
+
+git pull 
