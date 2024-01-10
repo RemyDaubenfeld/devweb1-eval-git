@@ -18,3 +18,5 @@ git branch -M master
 git push -u origin master
 
 git commit -a -m "First commit"
+
+git push -u origin master
