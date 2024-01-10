@@ -10,3 +10,5 @@ Liste des commandes:
 
 git init
 git add .
+
+création du dépôt distant sur GitHub
