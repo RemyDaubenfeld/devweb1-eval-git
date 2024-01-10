@@ -9,3 +9,4 @@ Evaluation GitHub - DevWeb1 - 10/01/2024
 Liste des commandes:
 
 git init
+git add .
