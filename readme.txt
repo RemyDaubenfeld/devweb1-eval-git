@@ -26,3 +26,5 @@ Modification du document readme.txt puis "ctrl + S"
 git commit -a -m "Second commit"
 git pull 
 git push
+
+et on recommence les étapes à chaque modification de document.
