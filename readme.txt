@@ -12,3 +12,5 @@ git init
 git add .
 
 création du dépôt distant sur GitHub
+
+git remote add origin https://github.com/RemyDaubenfeld/devweb1-eval-git.git
