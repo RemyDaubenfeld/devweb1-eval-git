@@ -16,3 +16,5 @@ création du dépôt distant sur GitHub
 git remote add origin https://github.com/RemyDaubenfeld/devweb1-eval-git.git
 git branch -M master
 git push -u origin master
+
+git commit -a -m "First commit"
